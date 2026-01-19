@@ -1,0 +1,9 @@
+TWILIO_ACCOUNT_SID = "AC4dee40b79a3e8930c4009beed"
+TWILIO_AUTH_TOKEN = "97967590f08ed3e5adfds"
+TWILIO_FROM_NUMBER = "+1256540939878798345665238"
+
+
+# your Twilio number
+EMERGENCY_CONTACT ="+91 1234556778 "
+# replace with actual emergency contact number""
+HUGGING_FACE_API=""
